@@ -8,6 +8,7 @@ print("Where do you live?")
 city = input('Input your city: ')
 print("Hello, ", name, "! Your age is ", age, ". You live in ", city, ".", sep='')
 print()
+
 ###   task_1_b   ###
 
 print("What is your name?")
